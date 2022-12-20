@@ -12,8 +12,7 @@ It was up to me to develop this example using it according to the guidelines giv
 
 ## Links
 
-- Solution URL: [GitHub](XXX)
-- Live Site URL: [Netlify](XXX)
+- Live Site URL: [Netlify](https://strong-biscochitos-2ff69e.netlify.app/)
 
 ## Built with
 
