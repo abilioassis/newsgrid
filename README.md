@@ -12,7 +12,7 @@ It was up to me to develop this example using it according to the guidelines giv
 
 ## Links
 
-- Live Site URL: [Netlify](https://strong-biscochitos-2ff69e.netlify.app/)
+- Live Site URL: [Newsgrid](https://strong-biscochitos-2ff69e.netlify.app/)
 
 ## Built with
 
