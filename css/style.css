@@ -181,6 +181,7 @@ p {
 
 #main-nav .buttons {
   justify-self: end;
+  display: flex;
 }
 
 #main-nav .buttons a {
@@ -270,7 +271,7 @@ p {
 }
 
 #article .meta .category {
-  margin-top: 0.4rem;
+  margin-bottom: 0;
 }
 
 /* Footer */
